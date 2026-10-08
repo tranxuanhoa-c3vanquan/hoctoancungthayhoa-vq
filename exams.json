@@ -5265,6 +5265,1446 @@
       ],
       "minTimePct": 50,
       "type": "html"
+    },
+    {
+      "id": "DE10BAI1_001_11_1791447840763_592",
+      "title": "DE10BAI1_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI1_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI1_002_11_1791447840766_22",
+      "title": "DE10BAI1_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI1_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI1_003_11_1791447840769_111",
+      "title": "DE10BAI1_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI1_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI2_001_11_1791447840778_143",
+      "title": "DE10BAI2_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI2_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI2_002_11_1791447840784_310",
+      "title": "DE10BAI2_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI2_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI2_003_11_1791447840802_165",
+      "title": "DE10BAI2_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI2_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI3_001_11_1791447840811_949",
+      "title": "DE10BAI3_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI3_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI3_002_11_1791447840817_809",
+      "title": "DE10BAI3_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI3_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI3_003_11_1791447840824_592",
+      "title": "DE10BAI3_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI3_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI4_001_11_1791447840832_143",
+      "title": "DE10BAI4_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI4_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI4_002_11_1791447840859_594",
+      "title": "DE10BAI4_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI4_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI4_003_11_1791447840879_18",
+      "title": "DE10BAI4_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI4_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI5_001_11_1791447840883_604",
+      "title": "DE10BAI5_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI5_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI5_002_11_1791447840887_812",
+      "title": "DE10BAI5_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI5_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI5_003_11_1791447840891_713",
+      "title": "DE10BAI5_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI5_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI6_001_11_1791447840894_212",
+      "title": "DE10BAI6_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI6_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI6_002_11_1791447840897_894",
+      "title": "DE10BAI6_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI6_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI6_003_11_1791447840899_874",
+      "title": "DE10BAI6_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI6_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI7_001_11_1791447840902_526",
+      "title": "DE10BAI7_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI7_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI7_002_11_1791447840904_633",
+      "title": "DE10BAI7_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI7_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI7_003_11_1791447840907_913",
+      "title": "DE10BAI7_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI7_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI8_001_11_1791447840912_236",
+      "title": "DE10BAI8_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI8_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI8_002_11_1791447840916_281",
+      "title": "DE10BAI8_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI8_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI8_003_11_1791447840921_193",
+      "title": "DE10BAI8_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI8_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI9_001_11_1791447840924_706",
+      "title": "DE10BAI9_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI9_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI9_002_11_1791447840935_142",
+      "title": "DE10BAI9_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI9_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI9_003_11_1791447840937_755",
+      "title": "DE10BAI9_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI9_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI10_001_11_1791447840941_574",
+      "title": "DE10BAI10_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI10_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI10_002_11_1791447840944_509",
+      "title": "DE10BAI10_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI10_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI10_003_11_1791447840946_4",
+      "title": "DE10BAI10_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI10_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI11_001_11_1791447840949_718",
+      "title": "DE10BAI11_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI11_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI11_002_11_1791447840951_50",
+      "title": "DE10BAI11_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI11_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI11_003_11_1791447840954_422",
+      "title": "DE10BAI11_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI11_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI12_001_11_1791447840956_869",
+      "title": "DE10BAI12_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI12_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI12_002_11_1791447840958_474",
+      "title": "DE10BAI12_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI12_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI13_001_11_1791447840961_325",
+      "title": "DE10BAI13_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI13_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI13_002_11_1791447840964_918",
+      "title": "DE10BAI13_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI13_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI13_003_11_1791447840968_122",
+      "title": "DE10BAI13_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI13_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI14_001_11_1791447840971_467",
+      "title": "DE10BAI14_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI14_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI14_002_11_1791447840991_638",
+      "title": "DE10BAI14_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI14_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI14_003_11_1791447840995_751",
+      "title": "DE10BAI14_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI14_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI15_001_11_1791447840998_992",
+      "title": "DE10BAI15_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI15_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI15_002_11_1791447841001_111",
+      "title": "DE10BAI15_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI15_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI15_003_11_1791447841003_250",
+      "title": "DE10BAI15_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI15_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI16_001_11_1791447841006_235",
+      "title": "DE10BAI16_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI16_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI16_002_11_1791447841010_409",
+      "title": "DE10BAI16_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI16_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI16_003_11_1791447841018_921",
+      "title": "DE10BAI16_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI16_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI17_001_11_1791447841022_387",
+      "title": "DE10BAI17_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI17_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI17_002_11_1791447841025_466",
+      "title": "DE10BAI17_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI17_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI17_003_11_1791447841028_161",
+      "title": "DE10BAI17_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI17_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI18_001_11_1791447841031_498",
+      "title": "DE10BAI18_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI18_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI18_002_11_1791447841034_439",
+      "title": "DE10BAI18_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI18_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI18_003_11_1791447841037_243",
+      "title": "DE10BAI18_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI18_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI19_001_11_1791447841038_849",
+      "title": "DE10BAI19_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI19_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI19_002_11_1791447841040_486",
+      "title": "DE10BAI19_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI19_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI19_003_11_1791447841042_410",
+      "title": "DE10BAI19_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI19_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI20_001_11_1791447841044_302",
+      "title": "DE10BAI20_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI20_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI20_002_11_1791447841048_711",
+      "title": "DE10BAI20_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI20_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI20_003_11_1791447841050_433",
+      "title": "DE10BAI20_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI20_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI21_001_11_1791447841051_488",
+      "title": "DE10BAI21_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI21_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI21_002_11_1791447841053_887",
+      "title": "DE10BAI21_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI21_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI21_003_11_1791447841055_372",
+      "title": "DE10BAI21_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI21_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI22_001_11_1791447841057_71",
+      "title": "DE10BAI22_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI22_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI22_002_11_1791447841060_137",
+      "title": "DE10BAI22_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI22_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI22_003_11_1791447841063_922",
+      "title": "DE10BAI22_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI22_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI23_001_11_1791447841065_745",
+      "title": "DE10BAI23_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI23_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI23_002_11_1791447841068_831",
+      "title": "DE10BAI23_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI23_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI23_003_11_1791447841070_564",
+      "title": "DE10BAI23_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI23_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI24_001_11_1791447841073_464",
+      "title": "DE10BAI24_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI24_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI24_002_11_1791447841075_179",
+      "title": "DE10BAI24_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI24_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI24_003_11_1791447841078_216",
+      "title": "DE10BAI24_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI24_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI25_001_11_1791447841081_343",
+      "title": "DE10BAI25_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI25_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI25_002_11_1791447841083_782",
+      "title": "DE10BAI25_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI25_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI25_003_11_1791447841085_148",
+      "title": "DE10BAI25_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI25_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI26_001_11_1791447841087_986",
+      "title": "DE10BAI26_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI26_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI26_002_11_1791447841089_259",
+      "title": "DE10BAI26_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI26_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI26_003_11_1791447841091_860",
+      "title": "DE10BAI26_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI26_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI27_001_11_1791447841093_900",
+      "title": "DE10BAI27_001",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI27_001.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI27_002_11_1791447841106_531",
+      "title": "DE10BAI27_002",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI27_002.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
+    },
+    {
+      "id": "DE10BAI27_003_11_1791447841112_656",
+      "title": "DE10BAI27_003",
+      "subject": "Toán",
+      "grade": "11",
+      "week": "",
+      "open": "2026-10-08",
+      "close": "2027-10-08",
+      "html": "toan11/DE10BAI27_003.html",
+      "timeLimited": true,
+      "allowGuest": false,
+      "rosterClasses": [
+        "10A2",
+        "10A7"
+      ],
+      "minTimePct": 50,
+      "type": "html"
     }
   ]
 }
